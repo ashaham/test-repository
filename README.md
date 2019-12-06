@@ -1,4 +1,4 @@
-# My awesome REST API
+# Stores REST API
 
 ## Installation
 
